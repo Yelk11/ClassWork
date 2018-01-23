@@ -1,0 +1,39 @@
+
+NOTES FOR html5/css class
+
+Name: Ms. Jane Tucker
+e-mail: jltucker@oaklandcc.edu
+phone: 522-3579
+
+
+
+How to format a <hr> tag
+	<style type="text/css">
+	h1{font-size:60px;}
+	hr{width:75%;
+		height:10px;
+		background-color:blue;
+		margin:auto;}
+	</style>
+Tags we have learned so far - 1/16/2018
+	<p> </p>
+	<hr/>
+	<h#></h#> -- # = 1-6
+	<pre></pre>
+	<blockquote></blockquote>
+	<br></br>
+	
+In between the <head>
+	<meta charset="utf-8">
+	<meta name="description" content="This page contains the beginning information about html5 and CSS">
+	<meta name="keywords" content="html5,CSS"
+	<title>In class January 16th class</title>
+	
+	
+	<span></span>
+
+
+
+Working with text
+
+

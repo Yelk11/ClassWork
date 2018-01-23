@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\wmschane\Desktop\CIS 2818\2016 Winter\Assignment Starter Code\PA1 Starter Code\ch03_ex4_TempConverter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="20ff19045c89d08b8edafa97ac70a0517f0d0001">
+        <dex dex="C:\Users\wmschane\Desktop\CIS 2818\2016 Winter\Assignment Starter Code\PA1 Starter Code\ch03_ex4_TempConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e86bbfb2c0d710b9d737ce2373209572b937f705\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\wmschane\Desktop\CIS 2818\2016 Winter\Assignment Starter Code\PA1 Starter Code\ch03_ex4_TempConverter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d505eab57940bb13011545146f768cf3981ee29c">
+        <dex dex="C:\Users\wmschane\Desktop\CIS 2818\2016 Winter\Assignment Starter Code\PA1 Starter Code\ch03_ex4_TempConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_63f03c668a530a68dfc073fd5587fcf7f8b06b42\classes.dex" />
+    </item>
+
+</items>
